@@ -3,7 +3,7 @@ name: Build and deploy runner
 on:
   push:
     branches:
-      - main
+      - type-casting
 
 jobs:
   build:
